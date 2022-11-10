@@ -8,4 +8,6 @@ It currently utilizes a template model for query generation, but later, with a n
 
 It also allows users to generate Pyvis graphs and computer different node centrality metrics and rankings in order to compare Cities by attractiveness or twitter accounts by reputation.
 
+The application developped with Angular for the front-end and Python FastAPI for the back-end requires a local GraphDB installation as well as an active repository.
+
 For any question regarding the content of this document or attachments please contact me on this address : selim.gmati@insa-rennes.fr
