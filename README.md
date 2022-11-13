@@ -1,4 +1,4 @@
-# knowledge-graph-analysis-tool
+# knowledge-graph-analysis-web-app
 
 Web application for GraphDB database query and analysis
 
